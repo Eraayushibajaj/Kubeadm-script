@@ -1,0 +1,2 @@
+# Kubeadm-script
+KUBEADM SCRIPT
